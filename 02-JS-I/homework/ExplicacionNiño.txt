@@ -1,0 +1,10 @@
+Variables: contienen información para utilizar a la hora de escribir código, pueden ser declaradas dentro de una función}
+y solo serán utilizables ahí o fuera de ésta y podrán utilizarse en múltiples funciones, declaraciones 
+Strings: Como su nombre lo dice son cadenas de caracteres alfanúmericos, es texto.
+Funciones: Se utilizan para procesar los datos que querramos. Para esto le damos argumentos que serán el input de la funcion
+al procesar estos argumentos debe devolvernos o retornanos algún valor sea de tipo boollean, numérico, string, etc.
+el return marca el final de la función, el interpretador no procesará más código debajo de eso.
+Declaraciones: sirven para analizar si se cumple una condición (puede ser que el valor de una variable se el esperado
+o el return de una función) y en caso de cumplirla realizar algo o hacer otra cosa en caso de que no cumplir. Pueden 
+anidarse las condiciones para hacer múltiples "análisis"
+Valores Booleanos: Son tipos de variables que solo pueden tomar los valores verdadero o falso
